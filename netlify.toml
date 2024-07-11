@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/space.html"
+status = 200
